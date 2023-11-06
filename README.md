@@ -61,8 +61,9 @@ Automatically act on your data and communicate using third-party services like T
 
 
 # PROGRAM:
-Developed by: AKALYA A
-Register number: 212220220002
+## Developed by: AKALYA A
+
+## Register number: 212220220002
 ```
 #include <WiFi.h>
 #include "secrets.h"
