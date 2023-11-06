@@ -118,8 +118,11 @@ void loop() {
 }
 ```
 # CIRCUIT DIAGRAM:
-![image](https://github.com/Akalyaalex/Soil-moisture-monitoring-using-Thing-speak/assets/114275126/c051ccc8-13d4-4a33-a059-820ff6f68395)
+![image](https://github.com/Akalyaalex/Soil-moisture-monitoring-using-Thing-speak/assets/114275126/cfc9800b-fa2c-48d7-9657-7b56d09317b7)
+
 # OUTPUT:
-![image](https://github.com/Akalyaalex/Soil-moisture-monitoring-using-Thing-speak/assets/114275126/fd2e1679-f29d-4df6-9ca0-ee002bd8ac80)
+![image](https://github.com/Akalyaalex/Soil-moisture-monitoring-using-Thing-speak/assets/114275126/12cc7500-c0e9-4e1e-a954-dd0931a86a3e)
+![image](https://github.com/Akalyaalex/Soil-moisture-monitoring-using-Thing-speak/assets/114275126/632b5e80-062a-47c7-8e54-06ed3bac5e03)
+
 # RESULT:
 Thus the soil moisture sensor values are uploaded in the Thing speak using ESP32 controller.
